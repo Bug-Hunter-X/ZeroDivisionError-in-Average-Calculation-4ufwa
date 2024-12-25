@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common programming error: the ZeroDivisionError. The original code fails when processing an empty list because it attempts division by zero.  The solution addresses this by adding a check for an empty input list and handling this edge case gracefully, thus preventing the error.
